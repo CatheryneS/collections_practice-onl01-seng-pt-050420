@@ -30,5 +30,17 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  
+  styled = []
+  array.each do |word|
+    stlyed << word
 end
+
+
+
+
+
+
+
+
+
+
